@@ -3,3 +3,4 @@
 # Instalación
 ## Dependencias:
 - Python 3.7
+- pipenv
